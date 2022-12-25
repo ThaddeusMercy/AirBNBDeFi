@@ -1075,7 +1075,7 @@ body {
 @media (max-width: 767px) {
   .roadMapSection {
     padding: 50px 0;
-    height: 1100px;
+    height: 1250px;
   }
 }
 .roadMapSection::before {
